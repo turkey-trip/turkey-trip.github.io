@@ -1,4 +1,4 @@
-/* jAlbum 23.2.4 with Pluto 44, Light style, album creation date 6/12/21, 7:54 PM */
+/* jAlbum 25.1.3 with Pluto 44, Light style, album creation date 12/4/21, 7:10 PM */
 html, body {
 	height: 100%;
 	margin: 0px;
@@ -86,7 +86,7 @@ video {
 }
 .pl-pagetitle {
 	color: #111111;
-	font-size: 22px;
+	font-size: 40px;
 	font-weight: bold;
 	font-style: normal;
 	font-variant: normal;
@@ -99,7 +99,7 @@ video {
 }
 .pl-pagedescription {
 	color: #111111;
-	font-size: 16px;
+	font-size: 28px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -112,7 +112,7 @@ video {
 .pl-pagetitleTI {
 	background-color: #0000004c;
 	color: #ffffff;
-	font-size: 36px;
+	font-size: 48px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -126,7 +126,7 @@ video {
 .pl-pagedescriptionTI {
 	background-color: #0000004c;
 	color: #ffffff;
-	font-size: 18px;
+	font-size: 32px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -162,7 +162,7 @@ video {
 	min-height: 100%;
 }
 .pl-infotxt {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -176,7 +176,7 @@ video {
 	text-decoration: underline;
 }
 .pl-infotxtbottom {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -221,58 +221,58 @@ video {
 	margin: 5px 5px 10px;
 }
 .pl-foldertitle {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: bold;
 	font-style: normal;
 	font-variant: normal;
-	line-height: 16px;
+	line-height: 22px;
 	text-shadow: none;
 }
 .pl-foldertitle a {
 	text-decoration: underline;
 }
 .pl-foldercomment {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
-	line-height: 16px;
+	line-height: 22px;
 	text-shadow: none;
 }
 .pl-foldercomment a {
 	text-decoration: underline;
 }
 .pl-fcount {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: normal;
 	font-style: italic;
 	font-variant: normal;
 	text-shadow: none;
 }
 .pl-imagetitle {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: bold;
 	font-style: normal;
 	font-variant: normal;
-	line-height: 16px;
+	line-height: 22px;
 	text-shadow: none;
 }
 .pl-imagetitle a {
 	text-decoration: underline;
 }
 .pl-imagecomment {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
-	line-height: 16px;
+	line-height: 22px;
 	text-shadow: none;
 }
 .pl-imagecomment a {
 	text-decoration: underline;
 }
 .pl-copyright {
-	font-size: 10px;
+	font-size: 16px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -284,7 +284,7 @@ video {
 	text-decoration: underline;
 }
 .pl-credits {
-	font-size: 10px;
+	font-size: 16px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -312,7 +312,7 @@ video {
 }
 .pl-slidetitle {
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 14px;
+	font-size: 22px;
 	font-weight: bold;
 	font-style: normal;
 	font-variant: normal;
@@ -331,7 +331,7 @@ video {
 }
 .pl-slidecomment {
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -375,7 +375,7 @@ video {
 }
 .pl-pagetitleip {
 	color: #111111;
-	font-size: 22px;
+	font-size: 32px;
 	font-weight: bold;
 	font-style: normal;
 	font-variant: normal;
@@ -410,7 +410,7 @@ video {
 .pl-iptext {
 	color: #111111;
 	padding: 10px;
-	font-size: 14px;
+	font-size: 22px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
@@ -426,7 +426,7 @@ video {
 }
 .pl-ipcontact {
 	color: #111111;
-	font-size: 14px;
+	font-size: 22px;
 	font-weight: normal;
 	font-style: normal;
 	font-variant: normal;
